@@ -1,0 +1,14 @@
+- Gauss-Newton method script
+  - https://www.youtube.com/watch?v=Kln0ZQ7sX8k&t=1080s
+- Multivariate Newton-Raphson method script
+  - https://www.youtube.com/watch?v=_05BHEuN0ME&t=443s
+- Execution time of a cell
+  - https://www.geeksforgeeks.org/how-to-check-the-execution-time-of-python-script/
+- 3-D scatter plot
+  - https://matplotlib.org/stable/gallery/mplot3d/scatter3d.html#sphx-glr-gallery-mplot3d-scatter3d-py
+- SymPy library
+  - https://www.youtube.com/watch?v=1yBPEPhq54M&list=PLkdGijFCNuVm4IfZlsZPEt4fPJHfl-0g5&index=4
+- Calculating the norm by using NumPy
+  - https://numpy.org/doc/stable/reference/generated/numpy.linalg.norm.html
+- Execute rref
+  - https://www.geeksforgeeks.org/python-sympy-matrix-rref-method/
